@@ -1,6 +1,6 @@
 {
   "name": "mir19-my-atm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a simple prototype of an ATM machine.",
   "main": "index.js",
   "type": "module",
