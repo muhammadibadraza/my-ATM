@@ -1,6 +1,7 @@
 #! /usr/bin/env node
 
 import inquirer from "inquirer";
+console.log("      -:WELCOME TO IBAD RAZA ATM-MACHINE:-     ");
 
 
 let myBalance = 250000; // Dollar

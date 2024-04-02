@@ -1,6 +1,6 @@
 {
   "name": "@muhammadibadraza/mir19-my-atm",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "This is a simple prototype of an ATM machine with typescript,Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
